@@ -6,7 +6,7 @@ Bu proje, modern bir e-ticaret katalog uygulamasının Flutter kullanılarak gel
 
 Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
-1. **Terminali Açın ve Proje Dizinine Gidin:**
+1. **Terminali Açın ve Proje Dizinine Gidin**
 
 2. **Flutter Gereksinimlerini Kontrol Edin:**
    ```powershell
