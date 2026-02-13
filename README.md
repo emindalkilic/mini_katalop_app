@@ -1,16 +1,41 @@
-# mini_katalog_app
+# 📱 Flutter Mini Katalog Uygulaması
 
-A new Flutter project.
+Bu proje, modern bir e-ticaret katalog uygulamasının Flutter kullanılarak geliştirilmiş bir örneğidir.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 1. Başlangıç ve Çalıştırma
 
-A few resources to get you started if this is your first Flutter project:
+Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Terminali Açın ve Proje Dizinine Gidin:**
+   ```powershell
+   cd "C:\Users\user\Desktop\MobilUygulamaGelistirme\mini_katalog_app"
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Flutter Gereksinimlerini Kontrol Edin:**
+   ```powershell
+   flutter doctor
+   ```
+
+3. **Uygulamayı Çalıştırın:**
+   ```powershell
+   flutter run
+   ```
+
+---
+
+## 📂 2. Proje Yapısı
+
+*   `lib/models/`: Veri modelleri ve JSON işlemleri.
+*   `lib/data/`: Ürün bilgilerini içeren veri dosyaları.
+*   `lib/screens/`: Ana sayfa, detay sayfası ve sepet ekranı.
+*   `lib/widgets/`: Tekrar kullanılabilir UI bileşenleri (Ürün kartları vb.).
+
+---
+
+## 🛠️ 3. Gereksinimler  
+
+*   **Framework:** Flutter (3.27.0+)
+*   **Dil:** Dart
+*   **Tasarım:** Vanilla Flutter Widgets (Material 3).
